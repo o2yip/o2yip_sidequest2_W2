@@ -15,7 +15,7 @@ Edited by: Olivia Yip, o2yip, 21087252
 
 Adds several rectangular platforms. The blob is drawn as a noisy circle but collides using a simple axis-aligned bounding box (AABB). X and Y are resolved separately to keep behaviour predictable and teachable.
 
-This game shows a happy blob, expressing the emotion joy in a colourful environment. The blob can be moved freely by the user and can jump on the platforms in the game. There are also mini balls around the map that the blob can interact with by touching them. The blob is always showing constant movement and animation.
+This game shows a happy blob, expressing the emotion joy in a colourful environment. The blob can be moved freely by the user and can jump around in the game. There are also mini balls around the map that the blob can interact with by touching them. The blob is always showing constant movement and animation.
 
 ---
 
