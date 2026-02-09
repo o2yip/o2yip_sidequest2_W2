@@ -1,6 +1,6 @@
 ## Project Title
 
-GBDA302 Week 2 Example 3: Platforms (AABB Collisions)
+The Happy Moving Blob
 
 ---
 
